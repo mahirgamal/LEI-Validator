@@ -1,9 +1,0 @@
-{
-    "required": [],
-    "type": "object",
-    "allOf": [
-        {
-            "$ref": "icarIdentifierType.json"
-        }
-    ]
-}
