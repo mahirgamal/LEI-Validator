@@ -21,8 +21,8 @@ The LEI Validator Restful Service is a component of the LEI Validator. It provid
 
 2. Navigate to the restful-service directory:
   ```bash
-  cd LEI-Validator/restful-service
+   cd LEI-Validator/restful-service
 
 3. Build the project using Maven:
-     ```bash
-     mvn clean install
+  ```bash
+   mvn clean install
