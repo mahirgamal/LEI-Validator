@@ -17,16 +17,18 @@ The LEI Validator Restful Service is a component of the LEI Validator. It provid
 
 ### Installation and Setup
 1. Clone the LEI Validator repository:
-   ```bash
+```bash
    git clone https://github.com/mahirgamal/LEI-Validator.git
 2. Navigate to the restful-service directory:
-  ```bash
+```bash
      cd LEI-Validator/restful-service
 
-3.Build the project using Maven:
+3. Build the project using Maven:
+```bash
       mvn clean install
 
 ### Running the Service
+
 Execute the following command to run the service:
 ```bash
 java -jar target/restful-service-0.0.1-SNAPSHOT.war
