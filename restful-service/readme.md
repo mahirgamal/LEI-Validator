@@ -30,7 +30,7 @@ Execute the following command to run the service:
 
     java -jar target/restful-service-0.0.1-SNAPSHOT.war
   
-he service will start and listen for requests.
+The service will start and listen for requests.
 
 ### API Usage
 
